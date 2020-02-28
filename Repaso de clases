@@ -1,0 +1,33 @@
+ Declaracion de Variables
+ Sin Espacios
+ Sin Caracters Especiales
+ Estructura carnel case
+ Nombrar Variable
+
+ Ejemplo:
+
+average=5
+
+Operadeores Logicos
+
+and , or
+(88) (11)
+
+Entrada Datos por TECLADO
+dato= input ("Ingrese Dato")
+Nota: Los datos que se lleven estan en formato String
+
+Convertir dato a entero (INT) O flotante (FLOAT)
+
+dato = int(input("Ingrese Dato"))
+        (float)
+
+Estructura IF
+    if expression:
+        pass
+
+Estructura FOR:
+
+FOR ¿ in range (start,end):
+    #Code Here
+Nota: el FOR ejecuta hasta la condicion de parada -1
